@@ -1,1 +1,1 @@
-# M2-Embedded_Projecttype
+# M2-Embedded_Digital-Clock
